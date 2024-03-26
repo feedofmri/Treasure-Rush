@@ -1,3 +1,5 @@
+![Game Cover](treasure-rush.jpg)
+
 # Treasure Rush
 
 Welcome to Treasure Rush, an exhilarating game project developed by a dedicated team from Ahsanullah University of Science and Technology (AUST)!
