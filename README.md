@@ -12,7 +12,7 @@ Treasure Rush takes players on an unforgettable journey through a world filled w
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/yourusername/treasure-rush.git`
-2. Compile the source code using Visual Studio or your preferred C/C++ compiler.
+2. Compile the source code using Visual Studio 2013.
 3. Launch the game and start your treasure-hunting adventure!
 
 ## How to Play
