@@ -12,7 +12,7 @@ Treasure Rush takes players on an unforgettable journey through a world filled w
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/yourusername/treasure-rush.git`
-2. Compile the source code using Visual Studio 2013.
+2. Compile the source code using Visual Studio or your preferred C/C++ compiler.
 3. Launch the game and start your treasure-hunting adventure!
 
 ## How to Play
@@ -27,7 +27,7 @@ We welcome contributions from the community to enhance Treasure Rush further. Wh
 - Team Members: Md. Rubayet Islam, Adel Zahid, Saleh Mahmud Sami
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License (GPL)](LICENSE).
 
 ---
 
